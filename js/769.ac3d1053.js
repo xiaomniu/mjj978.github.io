@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhmmj_h5_90"]=self["webpackChunkhmmj_h5_90"]||[]).push([[769],{8769:function(e,t,n){n.r(t),n.d(t,{default:function(){return c}});var r=function(){var e=this,t=e._self._c;return t("div",{staticClass:"like-page"},[t("ArticleItem"),t("ArticleItem"),t("ArticleItem")],1)},l=[],u={name:"LikePage",data(){return{}},methods:{}},a=u,i=n(1001),s=(0,i.Z)(a,r,l,!1,null,"2903d462",null),c=s.exports}}]);
+//# sourceMappingURL=769.ac3d1053.js.map
